@@ -1,1 +1,1 @@
-I've learned how to use Git and GitHub with SSH for secure authentication!
+What I have learned from this course is how to effectively use Git and GitHub, including setting up SSH authentication, cloning repositories, and pushing changes.
